@@ -1,0 +1,57 @@
+@media only screen and (min-width: 769px) {
+    .header {
+        margin: 0 auto;
+
+        &_top-title {
+            font-size: 40px;
+            font-family: $s-font-light;
+            color: aquamarine;
+        }
+    }
+
+    .main {
+        width: 100%;
+        margin: 0 auto;
+
+        &_photo-banner {
+
+            &_photo-block {
+
+                &_my-photo {
+
+                }
+
+                &_age {
+
+                }
+
+            }
+
+            &_info {
+
+                &_position {
+
+                }
+
+                &_education {
+
+                }
+
+                &_cours {
+
+                }
+
+                &_contact_block {
+
+                    &_tel {
+
+                    }
+
+                    &_email {
+
+                    }
+                }
+            }
+        }
+    }
+}
